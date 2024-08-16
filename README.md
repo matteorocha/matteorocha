@@ -21,7 +21,6 @@
 
 
 - 🏫 Graduando no curso de Engenharia da Computação (UFAM);
-- 👨‍💻 Tenho experiência em projeto de iniciação científica, ofertado pelo Projeto Super, na qual fui bolsista junior no desenvolvimento de um aplicativo de planejamneto de vôo, tendo um conhecimento inicial em Dart e Flutter para criar um aplicativo fácil e intuitivo na sua usabilidade. Na faculdade, aprendi Python para atividades iniciais do curso e linguagem C para projetos mais complexos;
+- 👨‍💻 Tenho experiência em projeto de iniciação científica, ofertado pelo Projeto Super, na qual fui bolsista junior no desenvolvimento de um aplicativo de planejamento de vôo, tendo um conhecimento inicial em Dart e Flutter para criar um aplicativo fácil e intuitivo na sua usabilidade. Na faculdade, aprendi Python para atividades iniciais do curso e linguagem C para projetos mais complexos;
 - 🎮 Tenho uma paixão por videogames onde estou começando a pesquisar sobre desenvolvimento na área dos games, como um programador junior;
 - 🌱 Atualmente, estou estuando IA no quesito de utilizar ferramentas que facilitam o processo de aprendizagem que ampliarão meu conhecimento;
-- ⚡ Setup: Utilizando um computador com um Intel Celeron e 8 GB de RAM, até aguenta o que estou fazendo em projetos pesados (Android Studio é uma tristeza rodar, então utilizo VSCode para a maioria dos trabalhos da faculdade)😂🤣;
