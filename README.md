@@ -13,7 +13,7 @@
 
 ## Hi there, take your time!
 
-#### Tenho 20 anos, moro em Manaus/AM e estou começando neste mundo da tecnologia que encontrei uma vocação. Além disso, sou autista (nível de suporte 1) e com TDAH na qual a cada dia aprendo sobre mim e os desafios presentes na vida real.
+#### Tenho 21 anos, moro em Manaus/AM e estou começando neste mundo da tecnologia que encontrei uma vocação. Além disso, sou autista (nível de suporte 1) e com TDAH (tipo combinado) na qual a cada dia aprendo sobre mim e os desafios presentes na vida real.
 
 ## Tecnologias e ferramentas
 
@@ -21,6 +21,6 @@
 
 
 - 🏫 Graduando no curso de Engenharia da Computação (UFAM);
-- 👨‍💻 Tenho experiência em projeto de iniciação científica, ofertado pelo Projeto Super, na qual fui bolsista junior no desenvolvimento de um aplicativo de planejamento de vôo, tendo um conhecimento inicial em Dart e Flutter para criar um aplicativo fácil e intuitivo na sua usabilidade. Na faculdade, aprendi Python para atividades iniciais do curso e linguagem C para projetos mais complexos;
+- 👨‍💻 Tenho experiência em projeto de iniciação científica, ofertado pelo Projeto Super, na qual fui bolsista junior no desenvolvimento de um aplicativo de planejamento de vôo, tendo um conhecimento inicial em Dart e Flutter para criar um aplicativo fácil e intuitivo na sua usabilidade. Na faculdade, aprendi Python para atividades iniciais do curso, linguagem C para projetos mais complexos, Dart para aplicação android e Java no estudo de POO;
 - 🎮 Tenho uma paixão por videogames onde estou começando a pesquisar sobre desenvolvimento na área dos games, como um programador junior;
-- 🌱 Atualmente, estou estuando IA no quesito de utilizar ferramentas que facilitam o processo de aprendizagem que ampliarão meu conhecimento;
+- 🌱 Atualmente, estou estudando IA no quesito de utilizar ferramentas que facilitam o processo de aprendizagem que ampliarão meu conhecimento;
