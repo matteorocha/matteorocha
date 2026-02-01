@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://www.linkedin.com/in/matheus-rocha-canto-8b071a300" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:rochacanto@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:matheus.canto@icomp.ufam.edu.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/matteo_rcw" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
@@ -13,7 +13,7 @@
 
 ## Hi there, take your time!
 
-#### Tenho 21 anos, moro em Manaus/AM e estou começando neste mundo da tecnologia que encontrei uma vocação. Além disso, sou autista (nível de suporte 1) e com TDAH (tipo combinado) na qual a cada dia aprendo sobre mim e os desafios presentes na vida real.
+#### Tenho 22 anos, moro em Manaus/AM e estou começando neste mundo da tecnologia que encontrei uma vocação. Além disso, sou autista (nível de suporte 1) e com TDAH (tipo combinado) na qual a cada dia aprendo sobre mim e os desafios presentes na vida real.
 
 ## Tecnologias e ferramentas
 
