@@ -19,9 +19,6 @@
 Implementação de dicionários dinâmicos e manipulação direta de memória, focando em eficiência computacional
 
 ## Tecnologias e ferramentas
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
-
 *   **OS:** Linux (Ubuntu/Debian e Arch), Windows.
 *   **Linguagens:** C, Python, Shell Script, Dart (Lógica).
 *   **Ferramentas:** Git, GCC, Terminal.
